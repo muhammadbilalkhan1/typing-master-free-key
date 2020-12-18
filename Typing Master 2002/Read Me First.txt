@@ -1,0 +1,8 @@
+
+1. Install "idman623build23.exe"
+
+2. Open Crack Folder & Copy "IDMan.exe",
+
+3. Now Open "C:\Program Files (x86)\Internet Download Manager" Folder & Paste "IDMan.exe" in it, it says replace so do it..[Close Idm From taskbar if it running] 
+
+4. All Done ..Thanks 
